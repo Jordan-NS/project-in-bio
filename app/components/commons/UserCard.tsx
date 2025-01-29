@@ -26,7 +26,7 @@ export default function UserCard() {
           John Doe
           </h3>
         </div>
-        <p className="opacity-40">Eu crio produtos para a internet 🚀</p>
+        <p className="opacity-70">Eu crio produtos para a internet 💻 🚀</p>
         <span className="pb-3 border-b border-white border-opacity-10 w-full"></span>
       </div>
       <div className="flex flex-col gap-2 w-full">
